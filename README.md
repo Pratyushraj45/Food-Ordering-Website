@@ -37,7 +37,7 @@ Welcome to the Food Ordering Website project! This project is designed to provid
 
 ## Contributing
 
-We welcome contributions! If you'd like to enhance this project, follow these steps:
+I welcome contributions! If you'd like to enhance this project, follow these steps:
 
 1. [Fork the project](#fork-the-project).
 2. [Create your feature branch (`git checkout -b feature/YourFeature`)](#create-your-feature-branch).
