@@ -1,6 +1,6 @@
 # Food Ordering Website
 
-Welcome to the Food Ordering Website project! This project is designed to provide a delightful and seamless experience for users to order their favorite dishes online. Whether you're a developer looking to contribute or a user eager to explore, we're excited to have you on board.
+Welcome to the Food Ordering Website project! This project is designed to provide a delightful and seamless experience for users to order their favorite dishes online. Whether you're a developer looking to contribute or a user eager to explore, I am excited to have you on board.
 
 ## Table of Contents
 
